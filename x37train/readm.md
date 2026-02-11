@@ -1,0 +1,1 @@
+python scripts/rsl_rl/train.py --task X37-Velocity
